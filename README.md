@@ -13,3 +13,7 @@ Day 1
 Day 2
 ```
 * [Day 2](https://blog.nerdjfpb.com/javascript-part-2/) - JavaScript Types?
+```
+Day 3
+```
+* [Day 3](https://blog.nerdjfpb.com/javascript-part-3/) - Javascript Types Cont.
