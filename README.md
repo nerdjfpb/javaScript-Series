@@ -21,3 +21,8 @@ Day 3
 Day 4
 ```
 * [Day 4](https://blog.nerdjfpb.com/javascript-part-4/) - Javascript Types Cont.
+```
+Day 5
+```
+* [Day 5](https://blog.nerdjfpb.com/javascript-part-5/) - Javascript Comparisons
+```
