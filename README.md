@@ -26,3 +26,6 @@ Day 5
 ```
 * [Day 5](https://blog.nerdjfpb.com/javascript-part-5/) - Javascript Comparisons
 ```
+Day 6
+```
+* [Day 6](https://blog.nerdjfpb.com/javascript-part-6/) - Javascript Variables
