@@ -29,3 +29,7 @@ Day 5
 Day 6
 ```
 * [Day 6](https://blog.nerdjfpb.com/javascript-part-6/) - Javascript Variables
+```
+Day 7
+```
+* [Day 7](https://blog.nerdjfpb.com/javascript-part-7/) - More About Variables
