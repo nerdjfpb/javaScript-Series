@@ -33,3 +33,7 @@ Day 6
 Day 7
 ```
 * [Day 7](https://blog.nerdjfpb.com/javascript-part-7/) - More About Variables
+```
+Day 8
+```
+* [Day 8](https://blog.nerdjfpb.com/javascript-part-8/) - Conditional Statement.js
