@@ -36,4 +36,8 @@ Day 7
 ```
 Day 8
 ```
-* [Day 8](https://blog.nerdjfpb.com/javascript-part-8/) - Conditional Statement.js
+* [Day 8](https://blog.nerdjfpb.com/javascript-part-8/) - Conditional Statement
+```
+Day 9
+```
+* [Day 9](https://blog.nerdjfpb.com/javascript-part-9/) - More Conditional Statement
