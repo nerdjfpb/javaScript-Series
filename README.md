@@ -41,3 +41,7 @@ Day 8
 Day 9
 ```
 * [Day 9](https://blog.nerdjfpb.com/javascript-part-9/) - More Conditional Statement
+```
+Day 10
+```
+* [Day 10](https://blog.nerdjfpb.com/javascript-part-10/) - Switch
