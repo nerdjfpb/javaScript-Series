@@ -45,3 +45,7 @@ Day 9
 Day 10
 ```
 * [Day 10](https://blog.nerdjfpb.com/javascript-part-10/) - Switch
+```
+Day 11
+```
+* [Day 11](https://blog.nerdjfpb.com/javascript-part-11/) - Setup Code Editor
