@@ -53,3 +53,7 @@ Day 11
 Day 13
 ```
 * [Day 13](https://blog.nerdjfpb.com/javascript-part-13/) - While Loop
+```
+Day 14
+```
+* [Day 14](https://blog.nerdjfpb.com/javascript-part-14/) - For Loop
