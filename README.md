@@ -50,6 +50,10 @@ Day 11
 ```
 * [Day 11](https://blog.nerdjfpb.com/javascript-part-11/) - Setup Code Editor
 ```
+Day 12
+```
+* [Day 12](https://blog.nerdjfpb.com/javascript-part-12/) - Loops
+```
 Day 13
 ```
 * [Day 13](https://blog.nerdjfpb.com/javascript-part-13/) - While Loop
