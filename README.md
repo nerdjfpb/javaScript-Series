@@ -69,3 +69,7 @@ Day 15
 Day 16
 ```
 * [Day 16](https://blog.nerdjfpb.com/javascript-part-16/) - Functions
+```
+Day 17
+```
+* [Day 17](https://blog.nerdjfpb.com/javascript-part-17/) - More About Functions
