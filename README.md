@@ -61,3 +61,11 @@ Day 13
 Day 14
 ```
 * [Day 14](https://blog.nerdjfpb.com/javascript-part-14/) - For Loop
+```
+Day 15
+```
+* [Day 15](https://blog.nerdjfpb.com/javascript-part-15/) - For Vs While
+```
+Day 16
+```
+* [Day 16](https://blog.nerdjfpb.com/javascript-part-16/) - Functions
