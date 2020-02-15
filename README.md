@@ -81,3 +81,7 @@ Day 18
 Day 19
 ```
 * [Day 19](https://blog.nerdjfpb.com/javascript-part-19/) - RETURN in functions
+```
+Day 20
+```
+* [Day 20](https://blog.nerdjfpb.com/javascript-part-20/) - Array
