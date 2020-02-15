@@ -77,3 +77,7 @@ Day 17
 Day 18
 ```
 * [Day 18](https://blog.nerdjfpb.com/javascript-part-18/) - Different Types of Functions
+```
+Day 19
+```
+* [Day 19](https://blog.nerdjfpb.com/javascript-part-19/) - RETURN in functions
