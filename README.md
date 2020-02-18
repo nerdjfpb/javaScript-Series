@@ -93,3 +93,7 @@ Day 21
 Day 22
 ```
 * [Day 22](https://blog.nerdjfpb.com/javascript-part-22/) - Object
+```
+Day 23
+```
+* [Day 23](https://blog.nerdjfpb.com/javascript-part-23/) - Dom manipulation
