@@ -96,4 +96,8 @@ Day 22
 ```
 Day 23
 ```
-* [Day 23](https://blog.nerdjfpb.com/javascript-part-23/) - Dom manipulation
+* [Day 23](https://blog.nerdjfpb.com/javascript-part-23/) - Dom Manipulation
+```
+Day 24
+```
+* [Day 24](https://blog.nerdjfpb.com/javascript-part-24/) - Dom Selector
