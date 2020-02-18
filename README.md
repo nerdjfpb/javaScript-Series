@@ -85,3 +85,11 @@ Day 19
 Day 20
 ```
 * [Day 20](https://blog.nerdjfpb.com/javascript-part-20/) - Array
+```
+Day 21
+```
+* [Day 21](https://blog.nerdjfpb.com/javascript-part-21/) - More About Array
+```
+Day 22
+```
+* [Day 22](https://blog.nerdjfpb.com/javascript-part-22/) - Object
