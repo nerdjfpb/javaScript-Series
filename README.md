@@ -101,3 +101,7 @@ Day 23
 Day 24
 ```
 * [Day 24](https://blog.nerdjfpb.com/javascript-part-24/) - Dom Selector
+```
+Day 25
+```
+* [Day 25](https://blog.nerdjfpb.com/javascript-part-25/) - Style Change in Dom
