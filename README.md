@@ -105,3 +105,7 @@ Day 24
 Day 25
 ```
 * [Day 25](https://blog.nerdjfpb.com/javascript-part-25/) - Style Change in Dom
+```
+Day 26
+```
+* [Day 26](https://blog.nerdjfpb.com/javascript-part-26/) - Play With the Dom (querySelector)
