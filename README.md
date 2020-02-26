@@ -117,3 +117,7 @@ Day 27
 Day 28
 ```
 * [Day 28](https://blog.nerdjfpb.com/javascript-part-28/) - Add New Anime on The List Using Event
+```
+Day 29
+```
+* [Day 29](https://blog.nerdjfpb.com/javascript-part-29/) - Refactor our last tutorial code
