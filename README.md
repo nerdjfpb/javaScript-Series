@@ -121,3 +121,7 @@ Day 28
 Day 29
 ```
 * [Day 29](https://blog.nerdjfpb.com/javascript-part-29/) - Refactor our last tutorial code
+```
+Day 30
+```
+* [Day 30](https://blog.nerdjfpb.com/javascript-part-30/) - jQuery
