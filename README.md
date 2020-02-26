@@ -109,3 +109,7 @@ Day 25
 Day 26
 ```
 * [Day 26](https://blog.nerdjfpb.com/javascript-part-26/) - Play With the Dom (querySelector)
+```
+Day 27
+```
+* [Day 27](https://blog.nerdjfpb.com/javascript-part-27/) - Dom Event Introduction
