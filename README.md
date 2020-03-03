@@ -1,5 +1,7 @@
 # javaScript-Series
-A tutorial for Absolute Beginners of JavaScript
+A tutorial for Absolute Beginners of JavaScript.
+
+You can find the total pdf in - [Here](https://blog.nerdjfpb.com/javascript-in-30-days-free-pdf/)
 
 You can check the commits to find the part by part codes.
 
